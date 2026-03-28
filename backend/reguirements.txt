@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+sqlalcfemy
+psycopg2-binary
+python-dotenv
